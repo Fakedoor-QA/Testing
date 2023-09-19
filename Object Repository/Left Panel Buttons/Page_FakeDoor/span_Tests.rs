@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tests</name>
+   <tag></tag>
+   <elementGuidId>1c05840e-5301-4243-8584-99404303eb41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/aside/div/div/ul/span[2]/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3df00e52-6036-4dda-94ba-edf1af182ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu</value>
+      <webElementGuid>6f8558c3-a637-412f-a129-81d9866f2a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tests</value>
+      <webElementGuid>7bb83d29-9ae9-42b1-ae47-c5772a15aca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-qj5x5b&quot;]/aside[@class=&quot;MuiBox-root mui-style-dlr8ov&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked mui-style-1ttlyux&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft mui-style-1l8j5k8&quot;]/ul[@class=&quot;MuiList-root MuiList-padding mui-style-1yokz7c&quot;]/span[@class=&quot;MuiBox-root mui-style-mkjxjs&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters mui-style-sgjcc7&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-1ilajes&quot;]/div[@class=&quot;MuiListItemText-root mui-style-1wi22wg&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu&quot;]</value>
+      <webElementGuid>48ec1ee8-dc97-4c58-b4ab-cafbc3e9667f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/aside/div/div/ul/span[2]/li/div/div[2]/span</value>
+      <webElementGuid>e26ee612-200e-4784-a35f-71b5af20c94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biology'])[1]/following::span[3]</value>
+      <webElementGuid>638fbfc6-0c6c-4f3c-874a-a449a8e17105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemistry'])[1]/following::span[5]</value>
+      <webElementGuid>2a4a8ce0-16f8-4264-b337-a3756e9e7e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[4]</value>
+      <webElementGuid>29885b9c-d164-4b20-aa93-43d19068cddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate of Improvement'])[1]/preceding::span[25]</value>
+      <webElementGuid>0c468850-113f-4746-984c-76ee6f805ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tests']/parent::*</value>
+      <webElementGuid>09ebb7cf-0489-447f-a9ea-0b2f371c0892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/li/div/div[2]/span</value>
+      <webElementGuid>e6465e2f-076e-473a-9710-b53c73357f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tests' or . = 'Tests')]</value>
+      <webElementGuid>d139caaa-e83b-48f6-b731-8f586f60cb41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

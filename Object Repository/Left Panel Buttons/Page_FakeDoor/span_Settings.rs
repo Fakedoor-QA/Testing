@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Settings</name>
+   <tag></tag>
+   <elementGuidId>1a0bb165-67fd-4748-9d10-d5df9d00d2b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > li.MuiListItem-root.MuiListItem-gutters.mui-style-rz3eod > div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.mui-style-67ir1y > div.MuiListItemText-root.mui-style-1wi22wg > span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.mui-style-rk6eu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/aside/div/div/ul/a[3]/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce669a5b-f044-48af-9b23-ddc99ef73087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu</value>
+      <webElementGuid>991872e7-387b-4fc2-ba6f-080b209b09b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>fb9fc3cb-8788-4b06-aa9f-de06fcb34b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-qj5x5b&quot;]/aside[@class=&quot;MuiBox-root mui-style-dlr8ov&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked mui-style-1ttlyux&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft mui-style-1l8j5k8&quot;]/ul[@class=&quot;MuiList-root MuiList-padding mui-style-1yokz7c&quot;]/a[3]/li[@class=&quot;MuiListItem-root MuiListItem-gutters mui-style-rz3eod&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-67ir1y&quot;]/div[@class=&quot;MuiListItemText-root mui-style-1wi22wg&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary mui-style-rk6eu&quot;]</value>
+      <webElementGuid>919cc9cc-d9af-487b-9542-0de6e9eb6edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/aside/div/div/ul/a[3]/li/div/div[2]/span</value>
+      <webElementGuid>9ead6575-ff7d-4240-a99a-7f610d032ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biology'])[1]/following::span[2]</value>
+      <webElementGuid>0175180b-7e1c-46d4-9471-573b2bc86edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemistry'])[1]/following::span[4]</value>
+      <webElementGuid>b08c7746-fb3c-4e23-b157-fda3811192d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select up to 3 topics'])[1]/preceding::span[10]</value>
+      <webElementGuid>25c9cdbf-6371-41f1-96ab-8f55f7e46a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Topic'])[1]/preceding::span[10]</value>
+      <webElementGuid>a656003a-2b17-4535-8664-9ed229a02013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Settings']/parent::*</value>
+      <webElementGuid>d578bb83-6f27-4d04-93d0-89baeddd5138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/li/div/div[2]/span</value>
+      <webElementGuid>80c5e842-64f7-4f2b-8fb5-95c11f25bcdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>167eda42-2ceb-484f-b861-e0c368e63301</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
